@@ -1,2 +1,2 @@
-My second commit
-My third commit
+0x03-git
+This is the readme file for the 0x03 directory
